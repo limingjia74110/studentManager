@@ -7,9 +7,7 @@ package com.student.bean;
  *
  */
 
- * @author limingjia123
- *
- */
+
 public class Student {
 
 	private Integer id;//学生id　１
